@@ -1,1 +1,13 @@
+li .review
+{
+	display: inline;
+}
 
+.person {
+	font-size: 30px;
+}
+
+.person:before {
+	content: "from";
+	font-size: 25px;
+}
