@@ -8,6 +8,10 @@ li .review
 }
 
 .person:before {
-	content: "from";
+	content: "from ";
 	font-size: 25px;
+}
+
+.social {
+	color: #55acee;
 }
